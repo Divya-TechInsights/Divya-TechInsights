@@ -32,29 +32,18 @@
 
 
 
-<h3 align="center">🚀 Projects</h3>
+<h3 align="center">🚀 Featured Projects</h3>
 
 <div align="center">
 
-<p>
-  🎓 <strong>Student Performance Prediction</strong><br>
-  Predicts student academic outcomes using machine learning models based on attendance, study time, and other factors.
-</p>
+- 🔍 **[Student Performance Prediction](https://github.com/Divya-TechInsights/Student_Performance_Prediction)**  
+  A machine learning model that predicts student academic outcomes using features like attendance, study time, and parental background.
 
-<p>
-  🍷 <strong>Wine Quality Analysis</strong><br>
-  A comprehensive EDA and ML model to predict wine quality based on chemical properties.
-</p>
+- 🍷 **[Wine Quality Analysis](https://github.com/Divya-TechInsights/Wine_Quality_Analysis)**  
+  An exploratory data analysis and prediction project to assess wine quality using various chemical properties.
 
-<p>
-  🧠 <strong>ML Model on Health Data</strong><br>
-  Developed a machine learning model to predict health conditions using real-world health datasets and classification algorithms.
-</p>
-
-<p>
-  📊 <strong>Interactive Data Dashboard</strong><br>
-  Created a Streamlit-based dashboard for visualizing and exploring dynamic data insights in an intuitive UI.
-</p>
+- 🌐 **[Deployment with Streamlit](https://github.com/Divya-TechInsights/Deployment_Streamlit)**  
+  Demonstrates how to deploy data science models using Streamlit for building interactive web apps.
 
 </div>
 
