@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Divya 👋</h1>
+<p align="center">
+  <img src="https://github.com/Divya-TechInsights/Divya-TechInsights/blob/main/image.png" alt="Hi, I am Divya" width="100%" />
+</p>
+
 
 <div align="center">
 
