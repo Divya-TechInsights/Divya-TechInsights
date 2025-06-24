@@ -85,8 +85,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Divya-TechInsights&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Divya-TechInsights&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak" />
 </p>
+
 
 
 
