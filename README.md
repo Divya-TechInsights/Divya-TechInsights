@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="https://github.com/Divya-TechInsights/Divya-TechInsights/blob/main/image.png" alt="Hi, I am Divya" width="100%" />
+  <img src="https://github.com/Divya-TechInsights/Divya-TechInsights/blob/main/image.png" 
+       alt="Hi, I am Divya" 
+       width="800px" 
+       height="200px" 
+       style="object-fit: cover;" />
 </p>
+
+
 
 
 <div align="center">
