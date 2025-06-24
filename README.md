@@ -79,7 +79,8 @@
 
 
 
-![Snake animation](https://github.com/Divya-TechInsights/Divya-TechInsights/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/Divya-TechInsights/Divya-TechInsights/blob/main/Github_Contributions.svg)
+
 
 
 
