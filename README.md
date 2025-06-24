@@ -1,38 +1,60 @@
 <h1 align="center">Hi there, I'm Divya 👋</h1>
 
-<p align="center">
-  <em>Aspiring Data Scientist | Skilled in Python | Passionate about Data-Driven Solutions</em><br>
-  <em>Exploring patterns, building models, and visualizing insights</em>
-</p>
+<div align="center">
+
+  <strong><em>Data Science Enthusiast | Skilled in Python | Passionate about Data-Driven Solutions</em></strong><br>
+  <strong><em>Exploring patterns, building models, and visualizing insights</em></strong>
+
+<br>
+</div>
 
 
 
 ### 🛠️ Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-206C8B?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3C4E6A?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-206C8B?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-3C4E6A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+
+</div>
+
+<br>
 
 
 
 ### 🚀 Projects  
 
-- 🎓 **[Student Performance Prediction](https://github.com/Divya-TechInsights/student-performance-predictor)**  
+<p>
+  🎓 <strong><a href="https://github.com/Divya-TechInsights/student-performance-predictor">Student Performance Prediction</a></strong><br>
   Predicts student academic outcomes using machine learning models based on attendance, study time, and other factors.
+</p>
 
-- 🍷 **[Wine Quality Analysis](https://github.com/Divya-TechInsights/wine-quality-analysis)**  
+<p>
+  🍷 <strong><a href="https://github.com/Divya-TechInsights/wine-quality-analysis">Wine Quality Analysis</a></strong><br>
   A comprehensive EDA and ML model to predict wine quality based on chemical properties.
+</p>
 
-- 🧠 **[ML Model on Health Data](https://github.com/Divya-TechInsights/health-ml)**  
+<p>
+  🧠 <strong><a href="https://github.com/Divya-TechInsights/health-ml">ML Model on Health Data</a></strong><br>
   Developed a machine learning model to predict health conditions using real-world health datasets and classification algorithms.
+</p>
 
-- 📊 **[Interactive Data Dashboard](https://github.com/Divya-TechInsights/data-dashboard)**  
+<p>
+  📊 <strong><a href="https://github.com/Divya-TechInsights/data-dashboard">Interactive Data Dashboard</a></strong><br>
   Created a Streamlit-based dashboard for visualizing and exploring dynamic data insights in an intuitive UI.
+</p>
+
+<br>
 
 
 
-  ### ✨ Motto  
-> _"Driving business value through data intelligence."_
+### ✨ Motto  
+<p align="center"><em>"Driving business value through data intelligence."</em></p>
+
+</div>
