@@ -10,7 +10,7 @@
 
 
 
-### 🛠️ Languages & Tools  
+<h3 align="center">🛠️ Languages & Tools</h3> 
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 
 
-### 🚀 Projects  
+<h3 align="center">🚀 Projects</h3> 
 
 <p>
   🎓 <strong><a href="https://github.com/Divya-TechInsights/student-performance-predictor">Student Performance Prediction</a></strong><br>
@@ -54,7 +54,7 @@
 
 
 
-### ✨ Motto  
+<h3 align="center">✨ Motto</h3> 
 <p align="center"><em>"Driving business value through data intelligence."</em></p>
 
 </div>
