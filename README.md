@@ -10,6 +10,8 @@
 
 
 
+
+
 <h3 align="center">🛠️ Languages & Tools</h3> 
 
 <div align="center">
@@ -25,6 +27,8 @@
 </div>
 
 <br>
+
+
 
 
 
@@ -55,6 +59,8 @@
 </div>
 
 <br>
+
+
 
 
 
