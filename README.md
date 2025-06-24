@@ -74,8 +74,18 @@
 
 
 
+<h3 align="center">📈 Professional Contributions & GitHub Insights</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divya-TechInsights&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya-TechInsights&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divya-TechInsights&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" alt="Divya's GitHub stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya-TechInsights&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages Used" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divya-TechInsights&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak" />
+</p>
+
 
