@@ -36,13 +36,13 @@
 
 <div align="center">
 
-- 🔍 **[Student Performance Prediction](https://github.com/Divya-TechInsights/Student_Performance_Prediction)**  
+ 🔍 **[Student Performance Prediction](https://github.com/Divya-TechInsights/Student_Performance_Prediction)**  
   A machine learning model that predicts student academic outcomes using features like attendance, study time, and parental background.
 
-- 🍷 **[Wine Quality Analysis](https://github.com/Divya-TechInsights/Wine_Quality_Analysis)**  
+ 🍷 **[Wine Quality Analysis](https://github.com/Divya-TechInsights/Wine_Quality_Analysis)**  
   An exploratory data analysis and prediction project to assess wine quality using various chemical properties.
 
-- 🌐 **[Deployment with Streamlit](https://github.com/Divya-TechInsights/Deployment_Streamlit)**  
+ 🌐 **[Deployment with Streamlit](https://github.com/Divya-TechInsights/Deployment_Streamlit)**  
   Demonstrates how to deploy data science models using Streamlit for building interactive web apps.
 
 </div>
