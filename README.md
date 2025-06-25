@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Divya-TechInsights/Divya-TechInsights/blob/main/image.png" 
+  <img src="https://github.com/Divya-TechInsights/Divya-TechInsights/blob/main/Image.png" 
        alt="Hi, I am Divya" 
        width="800px" 
        height="200px" 
@@ -75,12 +75,13 @@
 <h3 align="center">📈 Professional Contributions & GitHub Insights</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divya-TechInsights&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" alt="Divya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divya-TechInsights&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&cache_bust=1" alt="Divya's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya-TechInsights&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya-TechInsights&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_bust=1" alt="Top Languages Used" />
 </p>
+
 
 
 <br>
