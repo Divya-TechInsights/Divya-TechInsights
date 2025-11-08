@@ -54,6 +54,11 @@
  🌐 **[Deployment with Streamlit](https://github.com/Divya-TechInsights/Deployment_Streamlit)**  
   Demonstrates how to deploy data science models using Streamlit for building interactive web apps.
 
+🎧 **[Machine Sound Anomaly Detection](https://machine-sound-anomaly-detection.streamlit.app/)**  
+A Streamlit web app that analyzes **machine audio** using **Deep Learning** to detect anomalies in real-time.  
+Supports predictive maintenance and reduces unplanned downtime.   
+**Live App:** [https://machine-sound-anomaly-detection.streamlit.app/](https://machine-sound-anomaly-detection.streamlit.app/)
+
 </div>
 
 <br>
