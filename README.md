@@ -56,8 +56,8 @@
 
 🎧 **[Machine Sound Anomaly Detection](https://machine-sound-anomaly-detection.streamlit.app/)**  
 A Streamlit web app that analyzes **machine audio** using **Deep Learning** to detect anomalies in real-time.  
-Supports predictive maintenance and reduces unplanned downtime.   
-**Live App:** [https://machine-sound-anomaly-detection.streamlit.app/](https://machine-sound-anomaly-detection.streamlit.app/)
+Supports predictive maintenance and reduces unplanned downtime.    
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
