@@ -1,4 +1,3 @@
-<div style="background-color:#FFE5B4; padding: 20px; border-radius: 10px; text-align:center;">
 <p align="center">
   <img src="https://github.com/Divya-TechInsights/Divya-TechInsights/blob/main/Image.png" 
        alt="Hi, I am Divya" 
@@ -112,7 +111,4 @@ Supports predictive maintenance and reduces unplanned downtime.
   <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/Divya-TechInsights/Divya-TechInsights?color=blue&style=flat-square">
   <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/Divya-TechInsights/Divya-TechInsights?color=blue&style=flat-square">
 </p>
-
-<img src="https://via.placeholder.com/150" alt="Profile Image" style="border-radius:50%;"/>
-</div>
 
