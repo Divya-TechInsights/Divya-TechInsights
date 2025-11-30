@@ -113,6 +113,6 @@ Supports predictive maintenance and reduces unplanned downtime.
   <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/Divya-TechInsights/Divya-TechInsights?color=blue&style=flat-square">
 </p>
 
-
+<img src="https://via.placeholder.com/150" alt="Profile Image" style="border-radius:50%;"/>
 </div>
 
