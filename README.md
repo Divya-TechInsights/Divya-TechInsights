@@ -1,3 +1,4 @@
+<div style="background-color:#FFE5B4; padding: 20px; border-radius: 10px; text-align:center;">
 <p align="center">
   <img src="https://github.com/Divya-TechInsights/Divya-TechInsights/blob/main/Image.png" 
        alt="Hi, I am Divya" 
@@ -113,5 +114,5 @@ Supports predictive maintenance and reduces unplanned downtime.
 </p>
 
 
-
+</div>
 
