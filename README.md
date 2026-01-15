@@ -11,8 +11,22 @@
 
 <div align="center">
 
-  <strong><em>Data Science Enthusiast | Skilled in Python | Passionate about Data-Driven Solutions</em></strong><br>
-  <strong><em>Exploring patterns, building models, and visualizing insights</em></strong>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &size=26
+    &duration=2500
+    &pause=800
+    &color=E0A458
+    &center=true
+    &vCenter=true
+    &width=900
+    &lines=I'm+handling+end-to-end+projects;
+            Data+Science+Enthusiast;
+            Python+%7C+Machine+Learning;
+            Turning+Data+into+Insights" />
+</p>
+
 
 <br>
 </div>
