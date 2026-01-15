@@ -95,22 +95,6 @@ Supports predictive maintenance and reduces unplanned downtime.
 
 </div>
 
-<br>
-
-
-
-
-<h3 align="center">📈 Professional Contributions & GitHub Insights</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divya-TechInsights&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya-TechInsights&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
 
 
 <br>
