@@ -7,8 +7,9 @@
 </p>
 
 
+![Banner](https://via.placeholder.com/1000x200/ffcc00/000000?text=Welcome+to+My+Portfolio)
 
-
+<br>
 
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=900&color=E0A458&center=true&vCenter=true&width=900&lines=I'm+handling+end-to-end+projects;Data+Science+Enthusiast;Python+%7C+Machine+Learning;Turning+Data+into+Insights" />
