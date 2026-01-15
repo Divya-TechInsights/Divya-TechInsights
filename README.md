@@ -116,5 +116,5 @@ Supports predictive maintenance and reduces unplanned downtime.
 <br>
 
 <p align="center">
-⭐ If you find my work helpful, don’t forget to **star my repositories**!
+⭐ If you find my work helpful, don’t forget to <b>star my repositories</b>!
 </p>
