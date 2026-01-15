@@ -6,7 +6,7 @@
        style="object-fit: cover;" />
 </p>
 
-
+<br>
 ![Banner](https://via.placeholder.com/1000x200/ffcc00/000000?text=Welcome+to+My+Portfolio)
 
 <br>
