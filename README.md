@@ -41,19 +41,19 @@
 
 <table align="center" border="0" cellpadding="10">
   <tr>
-    <td align="center"><b>Problem Definition</b><br>Understand KPIs & Objectives</td>
+    <td align="center" bgcolor="#D0E8F2"><b>Problem Definition</b><br>Understand KPIs & Objectives</td>
     <td align="center">➡️</td>
-    <td align="center"><b>Data Collection</b><br>Gather datasets from APIs, Kaggle, DBs</td>
+    <td align="center" bgcolor="#D0E8F2"><b>Data Collection</b><br>Gather datasets from APIs, Kaggle, DBs</td>
     <td align="center">➡️</td>
-    <td align="center"><b>Data Cleaning</b><br>Handle missing values & outliers</td>
+    <td align="center" bgcolor="#D0E8F2"><b>Data Cleaning</b><br>Handle missing values & outliers</td>
     <td align="center">➡️</td>
-    <td align="center"><b>EDA</b><br>Visualize & analyze trends</td>
+    <td align="center" bgcolor="#D0E8F2"><b>EDA</b><br>Visualize & analyze trends</td>
     <td align="center">➡️</td>
-    <td align="center"><b>Modeling & ML</b><br>Train & evaluate models</td>
+    <td align="center" bgcolor="#D0E8F2"><b>Modeling & ML</b><br>Train & evaluate models</td>
     <td align="center">➡️</td>
-    <td align="center"><b>Deployment & Dashboard</b><br>Flask, Streamlit, Tableau</td>
+    <td align="center" bgcolor="#D0E8F2"><b>Deployment & Dashboard</b><br>Flask, Streamlit, Tableau</td>
     <td align="center">➡️</td>
-    <td align="center"><b>Insights & Reporting</b><br>Deliver actionable insights</td>
+    <td align="center" bgcolor="#D0E8F2"><b>Insights & Reporting</b><br>Deliver actionable insights</td>
   </tr>
 </table>
 
