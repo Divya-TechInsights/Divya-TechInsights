@@ -12,10 +12,9 @@
 </p>
 
 
-<h3 align ="center" style="color:#2EC866;">
-I am a Data Science graduate from SRM Institute of Science and Technology, Chennai<br>
-and currently pursuing a Master's in Generative AI.
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C853&center=true&vCenter=true&lines=Data+Science+Graduate+from+SRM+IST;Pursuing+Master's+in+Generative+AI" />
+</p>
 
 
 <br>
