@@ -6,17 +6,16 @@
        style="object-fit: cover;" />
 </p>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C853&center=true&vCenter=true&width=800&lines=I+Am+Data+Science+and+AI+Explorer;Python+%7C+Machine+Learning+%7C+SQL;I+Handle+End-To-End+Projects;I+Visualize+Data" />
+</p>
+
 <br>
  <h3 align ="center" style="color:#00C853;">
 I am a Data Science graduate from SRM Institute of Science and Technology,<br>
 currently pursuing a Master's in Generative AI.
 </h3>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C853&center=true&vCenter=true&lines=Data+Science+Graduate+from+SRM+IST;Pursuing+Master's+in+Generative+AI" />
-</p>
-
 
 <br>
 
