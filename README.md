@@ -46,7 +46,7 @@
 </p>
 
 <p align="right">
-  <img src="./Screenshot 2026-03-18 144709.png" width="80"/>
+  <img src="./Screenshot 2026-03-18 144709.png" width="120"/>
 </p>
 </table>
 
