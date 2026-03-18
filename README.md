@@ -36,6 +36,7 @@
 </div>
 
 <br>
+
 <table width="100%">
   <tr>
     <td align="left" width="70%">
@@ -45,8 +46,8 @@
       </a>
     </td>
 
-    <td align="right" width="70%">
-      <img src="./Screenshot 2026-03-18 144709.png" width="120"/>
+    <td align="right" width="30%">
+      <img src="[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/python-badge.png](https://github.com/Divya-TechInsights/Divya-TechInsights/blob/main/Screenshot%202026-03-18%20144709.png)" width="120"/>
     </td>
   </tr>
 </table>
