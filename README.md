@@ -39,16 +39,16 @@
 
 <table width="100%">
   <tr>
-    <td align="left">
+    < align="left">
       <h3>🏆 HackerRank Profile</h3>
        <a href="https://www.hackerrank.com/profile/tyagi_divya">
     <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?logo=hackerrank&logoColor=white" />
   </a>
-    </td>
     
-    <td align="right">
+    
+     <align="right">
       <img src="./Screenshot 2026-03-18 144709.png" width="90"/>
-    </td>
+    
   </tr>
 </table>
 
