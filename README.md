@@ -101,18 +101,6 @@ Supports predictive maintenance and reduces unplanned downtime.
 <br>
 
 
-
-
-
-<h3 align="center">✨ Motto</h3> 
-<p align="center"><em>"Driving business value through data intelligence."</em></p>
-
-</div>
-
-
-
-<br>
-
 ##  GitHub Stats
 
 <p align="center">
