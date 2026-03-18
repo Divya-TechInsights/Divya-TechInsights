@@ -7,7 +7,7 @@
 </p>
 
 
-<h3 style="color:#2EC866;">
+<h3 align ="center" style="color:#2EC866;">
 I am a Data Science graduate from SRM Institute of Science and Technology, Chennai<br>
 and currently pursuing a Master's in Generative AI.
 </h3>
