@@ -41,14 +41,16 @@
 
 <p align="left">
   <a href="https://www.hackerrank.com/profile/tyagi_divya">
-    <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?logo=hackerrank&logoColor=white" width="80" />
   </a>
 </p>
 
 <p align="right">
-  <img src="./Screenshot 2026-03-18 144709.png" width="140"/>
+  <img src="./Screenshot 2026-03-18 144709.png" width="80"/>
 </p>
 </table>
+
+
 
 <h2 align="center">Data Science Project Workflow</h2>
 
