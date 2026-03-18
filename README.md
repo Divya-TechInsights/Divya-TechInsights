@@ -36,19 +36,19 @@
 </div>
 
 <br>
+<table>
+<h2 align="left">🏆 HackerRank Profile</h2>
 
-<h2 align="center">🏆 HackerRank Profile</h2>
-
-<p align="right">
+<p align="left">
   <a href="https://www.hackerrank.com/profile/tyagi_divya">
     <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
-<p align="left">
+<p align="right">
   <img src="./Screenshot 2026-03-18 144709.png" width="140"/>
 </p>
-
+</table>
 
 <h2 align="center">Data Science Project Workflow</h2>
 
