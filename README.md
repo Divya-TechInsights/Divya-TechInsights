@@ -47,7 +47,7 @@
     </td>
     
     <td align="right">
-      <img src="./Screenshot 2026-03-18 144709.png" width="130"/>
+      <img src="./Screenshot 2026-03-18 144709.png" width="90"/>
     </td>
   </tr>
 </table>
