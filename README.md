@@ -78,53 +78,26 @@
 
   
 <br>
-<h3 align="center">📌 Featured Projects</h3>
+<h3 align="center">Featured Projects</h3>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 Student Performance Prediction</h4>
-      <p>
-        A machine learning model that predicts student academic outcomes using features like attendance, study time, and parental background.
-      </p>
-      <a href="https://github.com/Divya-TechInsights/Student_Performance_Prediction">
-        🔗 View Project
-      </a>
-    </td>
+<div align="center">
 
-    <td width="50%" valign="top">
-      <h4>🍷 Wine Quality Analysis</h4>
-      <p>
-        An exploratory data analysis and prediction project to assess wine quality using various chemical properties.
-      </p>
-      <a href="https://github.com/Divya-TechInsights/Wine_Quality_Analysis">
-        🔗 View Project
-      </a>
-    </td>
-  </tr>
+  **[Student Performance Prediction](https://github.com/Divya-TechInsights/Student_Performance_Prediction)**  
+  A machine learning model that predicts student academic outcomes using features like attendance, study time, and parental background.
 
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Deployment with Streamlit</h4>
-      <p>
-        Demonstrates how to deploy data science models using Streamlit for building interactive web apps.
-      </p>
-      <a href="https://github.com/Divya-TechInsights/Deployment_Streamlit">
-        🔗 View Project
-      </a>
-    </td>
+  **[Wine Quality Analysis](https://github.com/Divya-TechInsights/Wine_Quality_Analysis)**  
+  An exploratory data analysis and prediction project to assess wine quality using various chemical properties.
 
-    <td width="50%" valign="top">
-      <h4>🔊 Machine Sound Anomaly Detection</h4>
-      <p>
-        A Streamlit web app that analyzes machine audio using Deep Learning to detect anomalies in real-time. Supports predictive maintenance and reduces downtime.
-      </p>
-      <a href="https://machine-sound-anomaly-detection.streamlit.app/">
-        <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  **[Deployment with Streamlit](https://github.com/Divya-TechInsights/Deployment_Streamlit)**  
+  Demonstrates how to deploy data science models using Streamlit for building interactive web apps.
+
+ **[Machine Sound Anomaly Detection](https://machine-sound-anomaly-detection.streamlit.app/)**  
+A Streamlit web app that analyzes **machine audio** using **Deep Learning** to detect anomalies in real-time.  
+Supports predictive maintenance and reduces unplanned downtime.    
+[![Try Live App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://machine-sound-anomaly-detection.streamlit.app/) 
+
+</div>
+
 
 <br>
 
