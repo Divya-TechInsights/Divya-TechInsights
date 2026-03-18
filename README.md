@@ -45,8 +45,8 @@
       </a>
     </td>
 
-    <td align="right" width="30%">
-      <img src="Screenshot 2026-03-18 144709.png" width="120"/>
+    <td align="right" width="70%">
+      <img src="./Screenshot 2026-03-18 144709.png" width="120"/>
     </td>
   </tr>
 </table>
