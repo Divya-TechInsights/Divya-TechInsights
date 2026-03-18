@@ -39,7 +39,7 @@
 
 ##  HackerRank Profile
 
-[![HackerRank](https://img.shields.io/badge/View%20My%20HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/tyagi_divya)
+[![HackerRank](https://img.shields.io/badge/View%20My%20HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/profile/tyagi_divya)
 
 <img src="https://your-screenshot-link.png" width="600"/>
 
