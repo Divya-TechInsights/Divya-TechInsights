@@ -37,21 +37,17 @@
 
 <br>
 
-<table width="100%">
-  <tr>
-    <p align="left">
-      <h3>🏆 HackerRank Profile</h3>
-       <a href="https://www.hackerrank.com/profile/tyagi_divya">
+<h2 align="center">🏆 HackerRank Profile</h2>
+
+<p align="right">
+  <a href="https://www.hackerrank.com/profile/tyagi_divya">
     <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?logo=hackerrank&logoColor=white" />
   </a>
-    </p>
-    
-    
-     <p align="right">
-      <img src="./Screenshot 2026-03-18 144709.png" width="90"/>
-    </p>
-  </tr>
-</table>
+</p>
+
+<p align="left">
+  <img src="./Screenshot 2026-03-18 144709.png" width="140"/>
+</p>
 
 
 <h2 align="center">Data Science Project Workflow</h2>
