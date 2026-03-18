@@ -41,7 +41,7 @@
 
 ![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank)(https://www.hackerrank.com/profile/tyagi_divya)
 
-<img src="Screenshot 2026-03-18 144709.png" width="600"/>
+<img src="Screenshot 2026-03-18 144709.png" width="60"/>
 
 
 <h2 align="center">Data Science Project Workflow</h2>
