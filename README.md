@@ -41,7 +41,7 @@
 
 <p align="left">
   <a href="https://www.hackerrank.com/profile/tyagi_divya">
-    <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?logo=hackerrank&logoColor=white" width="80" />
+    <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?logo=hackerrank&logoColor=white" width="280" />
   </a>
 </p>
 
