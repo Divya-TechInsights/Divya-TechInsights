@@ -37,7 +37,7 @@
 
 <br>
 
-<h2 align="center">🏆 BADGES </h2>
+<h2 align="center"> BADGES </h2>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/tyagi_divya">
@@ -82,16 +82,16 @@
 
 <div align="center">
 
- 🔍 **[Student Performance Prediction](https://github.com/Divya-TechInsights/Student_Performance_Prediction)**  
+  **[Student Performance Prediction](https://github.com/Divya-TechInsights/Student_Performance_Prediction)**  
   A machine learning model that predicts student academic outcomes using features like attendance, study time, and parental background.
 
- 🍷 **[Wine Quality Analysis](https://github.com/Divya-TechInsights/Wine_Quality_Analysis)**  
+  **[Wine Quality Analysis](https://github.com/Divya-TechInsights/Wine_Quality_Analysis)**  
   An exploratory data analysis and prediction project to assess wine quality using various chemical properties.
 
- 🌐 **[Deployment with Streamlit](https://github.com/Divya-TechInsights/Deployment_Streamlit)**  
+  **[Deployment with Streamlit](https://github.com/Divya-TechInsights/Deployment_Streamlit)**  
   Demonstrates how to deploy data science models using Streamlit for building interactive web apps.
 
-🎧 **[Machine Sound Anomaly Detection](https://machine-sound-anomaly-detection.streamlit.app/)**  
+ **[Machine Sound Anomaly Detection](https://machine-sound-anomaly-detection.streamlit.app/)**  
 A Streamlit web app that analyzes **machine audio** using **Deep Learning** to detect anomalies in real-time.  
 Supports predictive maintenance and reduces unplanned downtime.    
 [![Try Live App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://machine-sound-anomaly-detection.streamlit.app/) 
