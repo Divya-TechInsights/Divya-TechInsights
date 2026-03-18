@@ -9,7 +9,7 @@
 
 
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=900&color=E0A458&center=true&vCenter=true&width=900&lines=I'm+handling+end-to-end+projects;Data+Science+Enthusiast;Python+%7C+Machine+Learning;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=900&color=E0A458&center=true&vCenter=true&width=900&lines=I'm+handling+end-to-end+projects;Data+Science+Learner;Python+%7C+Machine+Learning+%7CSQL;Turning+Data+into+Insights" />
 </p>
 
 
