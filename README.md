@@ -37,6 +37,13 @@
 
 <br>
 
+##  HackerRank Profile
+
+[![HackerRank](https://img.shields.io/badge/View%20My%20HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/tyagi_divya)
+
+<img src="https://your-screenshot-link.png" width="600"/>
+
+
 <h2 align="center">Data Science Project Workflow</h2>
 
 <table align="center" border="0" cellpadding="10">
