@@ -37,20 +37,17 @@
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td align="left" width="70%">
-      <h3>🏆 HackerRank Profile</h3>
-      <a href="https://www.hackerrank.com/profile/tyagi_divya">
-        <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?logo=hackerrank&logoColor=white" width="260"/>
-      </a>
-    </td>
+<h2 align="center">🏆 BADGES </h2>
 
-    <td align="right" width="30%">
-      <img src="[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/python-badge.png](https://github.com/Divya-TechInsights/Divya-TechInsights/blob/main/Screenshot%202026-03-18%20144709.png)" width="120"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/tyagi_divya">
+    <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./python-badge.png" width="140"/>
+</p>
 
 
 
