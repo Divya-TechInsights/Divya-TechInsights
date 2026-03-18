@@ -41,9 +41,9 @@
   <tr>
     <td align="left">
       <h3>🏆 HackerRank Profile</h3>
-      <a href="https://www.hackerrank.com/profile/tyagi_divya">
-        https://www.hackerrank.com/profile/tyagi_divya
-      </a>
+       <a href="https://www.hackerrank.com/profile/tyagi_divya">
+    <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?logo=hackerrank&logoColor=white" />
+  </a>
     </td>
     
     <td align="right">
