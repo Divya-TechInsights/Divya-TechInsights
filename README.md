@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="./python-badge.png" width="140"/>
+  <img src="./Screenshot 2026-03-18 144709.png" width="140"/>
 </p>
 
 
