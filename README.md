@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C853&center=true&vCenter=true&width=800&lines&bold=80=I+Am+Data+Science+and+AI+Explorer;Python+%7C+Machine+Learning+%7C+SQL;I+Handle+End-To-End+Projects;I+Visualize+Data" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C853&center=true&vCenter=true&width=800&lines=I+Am+Data+Science+and+AI+Explorer;Python+%7C+Machine+Learning+%7C+SQL;I+Handle+End-To-End+Projects;I+Visualize+Data" />
 </p>
 
 <br>
