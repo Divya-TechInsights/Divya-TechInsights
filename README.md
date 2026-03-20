@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Divya-TechInsights/Divya-TechInsights/blob/main/Image.png" 
+  <img src="https://github.com/Divya-TechInsights/Divya-TechInsights/blob/main/Gif.gif" 
        alt="Hi, I am Divya" 
        width="800px" 
        height="200px" 
